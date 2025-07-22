@@ -5,7 +5,7 @@ import fitz
 import io
 from PIL import Image
 import pytesseract
-from rules import valida_pratica_scuola_unicredit
+from rulesuc import valida_pratica_scuola_unicredit
 
 app = FastAPI()
 
